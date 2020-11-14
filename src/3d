@@ -1,0 +1,8 @@
+holamundo();
+void main() {
+        print(44+" está repetido");
+}
+
+void printhola() {
+        print("hola mundo");
+}
